@@ -186,4 +186,4 @@ This repository serves as the official landing page for ExifGlass. The software 
 **Get the most recent version of ExifGlass today!**
 
 ---
-**Last updated:** 2026-11-08 18:09:57 UTC
+**Last updated:** 2026-11-08 22:36:35 UTC
